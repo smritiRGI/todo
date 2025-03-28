@@ -1,1 +1,1 @@
-# simple dog image generator app using free api
+simple dog image generator app using free api
